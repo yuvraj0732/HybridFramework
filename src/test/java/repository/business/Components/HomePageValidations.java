@@ -19,8 +19,9 @@ public class HomePageValidations extends BaseClass{
 	
 	
 		
-		
-		
 	}
+	
+	public void Login() {
 
+}
 }
