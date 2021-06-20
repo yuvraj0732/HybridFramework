@@ -15,7 +15,7 @@ public class HomePageValidations extends BaseClass{
 	public static void Validatelinks() {
 		
 	Actions.isElementDisplayed(Home.HomeMenu);
-	Reporting.report("Element visible", Status.PASS);
+	Reporting.report("Element is visible", Status.PASS);
 	
 	
 		
